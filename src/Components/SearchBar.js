@@ -5,6 +5,11 @@ class SearchBar extends Component {
     state = {
         searchTerm: ''
     };
+
+    onInputChange = () => {
+
+    }
+
     render() {
         return <div className='search-bar ui segment'>
             <form className='ui form'>
@@ -13,6 +18,7 @@ class SearchBar extends Component {
                     <input
                         type="text"
                         value={this.state.searchTerm}
+                        onChange={this.onInputChange}
                     />
                 </div>
             </form>
