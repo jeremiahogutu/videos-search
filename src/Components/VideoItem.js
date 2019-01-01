@@ -1,6 +1,5 @@
 import React from 'react'
 
-
 const VideoItem = ({video}) => {
     return (
         <div>
@@ -8,7 +7,6 @@ const VideoItem = ({video}) => {
             {video.snippet.title}
         </div>
     )
-
 };
 
 export default VideoItem
