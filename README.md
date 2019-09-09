@@ -1,6 +1,6 @@
 # Videos Search
 
-[![CircleCI](https://img.shields.io/circleci/build/github/jeremiahogutu/circle-ci-react.svg)](https://circleci.com/gh/jeremiahogutu/videos-search) [![Maintainability](https://api.codeclimate.com/v1/badges/4061ee3b5be25d378500/maintainability)](https://codeclimate.com/github/jeremiahogutu/videos-search/maintainability) [![Release](https://img.shields.io/github/v/release/jeremiahogutu/videos-search)](https://github.com/jeremiahogutu/videos-search/releases) [![Licence](https://img.shields.io/npm/l/react)](https://opensource.org/licenses/MIT) [![Uptime](https://img.shields.io/uptimerobot/ratio/m783422332-a5c79bf4e211c80549fec00a)](https://stats.uptimerobot.com/LY0gDFRMx4) [![Status](https://img.shields.io/uptimerobot/status/m783422332-a5c79bf4e211c80549fec00a)](https://stats.uptimerobot.com/LY0gDFRMx4)
+[![CircleCI](https://img.shields.io/circleci/build/github/jeremiahogutu/circle-ci-react.svg)](https://circleci.com/gh/jeremiahogutu/videos-search) [![Maintainability](https://api.codeclimate.com/v1/badges/4061ee3b5be25d378500/maintainability)](https://codeclimate.com/github/jeremiahogutu/videos-search/maintainability) [![Release](https://img.shields.io/github/v/release/jeremiahogutu/videos-search)](https://github.com/jeremiahogutu/videos-search/releases) [![Licence](https://img.shields.io/npm/l/react)](https://opensource.org/licenses/MIT) 
 
 Video search using youtube api
 
@@ -13,6 +13,8 @@ Video search using youtube api
 * Enter a youtube video you want to search.
 
 ## Live Url
+[![Uptime](https://img.shields.io/uptimerobot/ratio/m783422332-a5c79bf4e211c80549fec00a)](https://stats.uptimerobot.com/LY0gDFRMx4) [![Status](https://img.shields.io/uptimerobot/status/m783422332-a5c79bf4e211c80549fec00a)](https://stats.uptimerobot.com/LY0gDFRMx4)
+
 https://videosearch.jeremiahogutu.ca/
 
 ## Live Snapshot
