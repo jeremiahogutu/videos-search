@@ -1,8 +1,8 @@
 import React, {Component} from 'react'
-import SearchBar from "./SearchBar";
-import youtube from '../apis/youtube'
-import VideoList from "./VideoList";
-import VideoDetail from "./VideoDetail";
+import SearchBar from "./Components/SearchBar";
+import youtube from './apis/youtube'
+import VideoList from "./Components/VideoList";
+import VideoDetail from "./Components/VideoDetail";
 
 class App extends Component {
     state = {
