@@ -23,6 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 \.idea/
-/src/apis/youtube.js
 
 \.env
